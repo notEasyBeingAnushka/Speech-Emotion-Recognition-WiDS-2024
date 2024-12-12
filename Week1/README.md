@@ -2,8 +2,8 @@
 Hii guys, lets begin our endeavors with the basics of python and essential libraries.
 
 # Resources
-## VS Code Installation (if u don't have VS code)
-[Installation tutorial](https://youtu.be/bN6DE-4uFNo?si=QCo6d8CLbJAPq2JU)
+## VS Code Installation 
+VS Code is a lightweight, powerful code editor that supports multiple programming languages and offers features like debugging, version control, and extensions, making it ideal for development across various projects. If you don't have VS code, you can install it using this [installation tutorial](https://youtu.be/bN6DE-4uFNo?si=QCo6d8CLbJAPq2JU) 
 
 ## Colab Notebooks 
 You can use either VS Code or Colab notebooks for working with Jupyter notebooks, as Jupyter notebooks will be our primary tool. Colab allows you to write and execute code in separate cells, making debugging easier. It is a cloud-based Jupyter notebook service that provides free access to computing resources, including GPUs and TPUs. Get started by learning the basics of Colab with this [introduction guide](https://youtu.be/iMlMfrXJYSg?feature=shared).
