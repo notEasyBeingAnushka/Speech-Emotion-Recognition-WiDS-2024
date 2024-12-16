@@ -34,6 +34,8 @@ Pandas is a fast, powerful, and flexible Python library used for working with da
 Librosa is a Python library used for audio and music analysis. It provides tools for working with audio files, extracting features such as tempo, pitch, and spectral content, and performing operations like time-stretching and pitch-shifting. It's widely used in fields like music information retrieval (MIR), audio signal processing, and machine learning applications involving audio data. Here are its resources:
 - [Librosa Video Tutorial](https://youtu.be/MhOdbtPhbLU?si=jgJOd2vQDj8f7Rdt)
 - [Librosa Documentation](https://librosa.org/doc/latest/index.html)
+- [Explanation of audio features](https://youtu.be/m3XbqfIij_Y?si=q_tYnrBr8rLzQEfr)
+I have also uploaded one pdf in the librosa assignment folder, you can also look at that.
 <br>
 
 <br>
