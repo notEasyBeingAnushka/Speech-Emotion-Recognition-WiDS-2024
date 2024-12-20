@@ -42,3 +42,12 @@ I have also uploaded one pdf in the librosa assignment folder, you can also look
 <br>
 
 I have also uploaded a zipped folder containing example files for Python basics, NumPy, and Matplotlib in this directory. You will need to extract the folder to access the files.
+
+# Assignments
+There are 3 assignments in this week - 
+- ## NumPy
+  In this assignment, you'll learn key NumPy operations like array creation, slicing, reshaping, and broadcasting. You'll also explore the concept of vectorization, which allows you to perform operations on entire arrays at once, making your code more efficient and faster than using traditional loops. The goal is to help you understand and apply these powerful techniques for handling multi-dimensional data more effectively.
+- ## Matplotlib and Pandas
+  In this assignment, you'll learn how to manipulate and analyze data using Pandas, including tasks like loading datasets, exploring data, calculating basic statistics, and filtering data. You'll also create different types of visualizations using Matplotlib, such as line plots, bar charts, and pie charts, to effectively present your findings and insights. The goal is to help you gain hands-on experience with both data manipulation and visualization techniques.
+- ## Librosa
+  In this assignment, you will explore audio processing using the Librosa library. You'll learn how to load audio files, visualize waveforms, and compute important audio features like Short-Time Fourier Transform (STFT), zero crossing rate, and spectral centroids. You'll also work with advanced techniques such as time-stretching, pitch shifting, and extracting Mel-frequency cepstral coefficients (MFCCs), all of which will give you a deeper understanding of how to analyze and manipulate audio data effectively with just a few lines of code.
