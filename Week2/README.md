@@ -21,7 +21,8 @@ We will explore three types of regression -
 - ### Logistic Regression
     - [Video Tutorial](https://youtu.be/yIYKR4sgzI8?si=h-myOtJxpLLIoXB-)
     - [Article](https://www.geeksforgeeks.org/implementation-of-logistic-regression-from-scratch-using-python/)
-  Although logistic regression is used for classification tasks, it’s still categorized as regression because it predicts probabilities (continuous values) for different classes. [An Interesting Article](https://ashish-mehta.medium.com/why-is-logistic-regression-called-regression-if-it-is-a-classification-algorithm-9c2a166e7b74) explains this further.
+  
+Although logistic regression is used for classification tasks, it’s still categorized as regression because it predicts probabilities (continuous values) for different classes. [An Interesting Article](https://ashish-mehta.medium.com/why-is-logistic-regression-called-regression-if-it-is-a-classification-algorithm-9c2a166e7b74) explains this further.
 
 For each of the above types, the videos will offer a deeper understanding of the concepts and intuition, while the articles will guide you through the implementation of these techniques in Python.
 
