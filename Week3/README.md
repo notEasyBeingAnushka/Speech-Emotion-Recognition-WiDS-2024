@@ -5,19 +5,6 @@ Hello friends! Let's start with Week 3, where we will explore Neural Networks (N
 
 ---
 
-## TASK  
-
-1. Implement a **basic Neural Network (NN)** model from scratch.  
-2. Implement a **Recurrent Neural Network (RNN)** model using a library like TensorFlow/Keras.  
-3. Answer the **short-answer questions** provided in [RNN_Question.pdf](./RNN_Question.pdf).  
-
-**Submission Guidelines:**  
-- Submit all answers and code implementations as a single PDF via:  
-  - **[Google Form](https://forms.gle/UV3haB5jKd5gTWic9)**  
-  - Maintain all files properly in the GitHub repository under the Week 3 folder.  
-
----
-
 ## Neural Network  
 
 The following resources explain the concepts and guide you through implementing a Neural Network. Focus on the first 7 videos in the playlist (the 8th video, which covers deep neural networks, is not relevant for this week).  
@@ -41,6 +28,19 @@ RNNs are powerful tools for handling sequential data. These resources explain th
 
 - **[RNN Using Keras](https://youtu.be/3eZ56HERVbk?si=xKkj1Bb0MMwqlJN3)**  
   - A coding tutorial for implementing RNN models using Keras.  
+
+---
+
+## Assignments  
+
+1. Implement a **basic Neural Network (NN)** model from scratch. [NN Assignment](./nn.ipynb)  
+2. Implement a **Recurrent Neural Network (RNN)** model using a library like TensorFlow/Keras. [RNN Assignment](./rnn.ipynb)  
+3. Answer the **short-answer questions** provided in [RNN_Question.pdf](./RNN_Question.pdf).  
+
+**Submission Guidelines:**  
+- Submit all answers and code implementations as a single PDF via:  
+  - **Google Form - Will be added soon**  
+  - Maintain all files properly in the GitHub repository under the Week 3 folder.  
 
 ---
 
