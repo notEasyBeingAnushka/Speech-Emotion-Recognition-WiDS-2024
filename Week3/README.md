@@ -18,7 +18,7 @@ Recurrent Neural Networks (RNNs) are neural networks designed to handle sequenti
 # Assignments
 1. Implement a **basic Neural Network (NN)** model from scratch. [NN Assignment](./nn.ipynb)
 2. Implement a **Recurrent Neural Network (RNN)** model using a library like TensorFlow/Keras. [RNN Assignment](./rnn.ipynb)
-3. Answer the **short-answer questions** provided in [RNN_Question.pdf](./RNN_Question.pdf)
+3. Answer the **short-answer questions** provided in [RNN_Question.pdf](./RNN_Questions.pdf)
 
 ### Submission Guidelines: 
 - Submit all answers and code implementations as a single PDF via:  
