@@ -4,16 +4,20 @@ Hello friends! Welcome to Week 3, where we’ll dive into Neural Networks (NN) a
 # Resources
 ## Neural Network
 Neural Networks are computational models inspired by the human brain, designed to recognize patterns and make predictions by processing data through layers of interconnected nodes. These are essential for various machine learning tasks, from image recognition to speech processing. The following resources will explain these concepts and guide you in implementing a Neural Network.
-- [Neural Network Playlist](https://youtube.com/playlist?list=PLuhqtP7jdD8CftMk831qdE8BlIteSaNzD&si=QmF_hb_xrwac3trX) (Watch until the 7th video, as the 8th video covers Deep Neural Networks, which is not the focus for this week)
-- [Worked-out Example of Backpropagation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/) (This article provides a step-by-step walkthrough of backpropagation, a key concept in training Neural Networks)
+- [Neural Network Playlist](https://youtube.com/playlist?list=PLuhqtP7jdD8CftMk831qdE8BlIteSaNzD&si=QmF_hb_xrwac3trX)
+   - Watch until the 7th video, as the 8th video covers Deep Neural Networks, which is not the focus for this week
+- [Worked-out Example of Backpropagation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+   - This article provides a step-by-step walkthrough of backpropagation, a key concept in training Neural Networks
 
 ## Recurrent Neural Network
 Recurrent Neural Networks (RNNs) are neural networks designed to handle sequential data by retaining memory of previous inputs, making them ideal for tasks like language modeling, time-series prediction, and speech recognition. These resources cover the concepts of RNNs, including LSTMs (Long Short-Term Memory), and offer guidance on coding and visualization.
 
 - [RNN Concepts Video](https://youtu.be/AsNTP8Kwu80?si=_LAOfQkt0frmINXM)
 - [LSTM Intuition Video](https://youtu.be/YCzL96nL7j0?si=X6bwunT2Ech8gWVh)
-- [RNN PDF](https://www.cse.iitb.ac.in/~swaprava/courses/cs217/scribes/CS217_2024_lec13.pdf) (A detailed PDF explaining RNNs with equations and illustrations)
-- [RNN Using Keras](https://youtu.be/3eZ56HERVbk?si=xKkj1Bb0MMwqlJN3) (A coding tutorial for implementing RNN models using Keras)
+- [RNN PDF](https://www.cse.iitb.ac.in/~swaprava/courses/cs217/scribes/CS217_2024_lec13.pdf)
+   - A detailed PDF explaining RNNs with equations and illustrations
+- [RNN Using Keras](https://youtu.be/3eZ56HERVbk?si=xKkj1Bb0MMwqlJN3)
+   - A coding tutorial for implementing RNN models using Keras
  
 # Assignments
 1. Implement a **basic Neural Network (NN)** model from scratch. [NN Assignment](./nn.ipynb)
