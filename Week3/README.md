@@ -25,8 +25,8 @@ Recurrent Neural Networks (RNNs) are neural networks designed to handle sequenti
 3. Answer the **short-answer questions** provided in [RNN_Questions.pdf](./RNN_Questions.pdf)
 
 ### Submission Guidelines: 
-- Submit all answers and code implementations as a single PDF via:  
-  - **Google Form - Will be added soon**  
+- Submit all answers as a single PDF via:  
+  - **Google Form** -  [Link for submission](https://docs.google.com/forms/d/e/1FAIpQLSfS-xK3Mex-3ZORLCI5PIh2Df-1cih-utnccptNb1hS-DKdeA/viewform?usp=sharing)
   - Maintain all files properly in the GitHub repository under the Week 3 folder.  
 
 ## Notes
